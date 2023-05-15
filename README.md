@@ -6,10 +6,6 @@
 <p>- 🌱 I’m currently learning <b>QA, python, web</b>
 <br />- 🌍 I speak Russian (native), English (B2)
 </p>
-<p>
-  At this moment I already worked in several Russian companies.<br />
-  Now I'm improving my development skills and learning new technologies!
-</p>
 <div align="center">
   <h2> Languages:</h2>
 </div>
@@ -32,7 +28,7 @@
   <a href="http://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" /> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /> </a>
-  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="" alt="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" /> </a>
+  <a href="[https://www.mysql.com/](https://www.sqlite.org/index.html)" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" /> </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" /> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" /> </a>
 </p>
@@ -40,8 +36,7 @@
   <h2>Connect with me:</h2>
 </div>
 <p align="left">
-<a href="https://t.me/skupydoom" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="skupydoom" /></a>
-/></a>
+<a href="https://t.me/skupydoom" target="blank"> <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="skupydoom" /></a>
 </p>
 <h2 align="center">My Codewars statistic:</h2>
 <p align="center">
