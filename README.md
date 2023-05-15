@@ -41,7 +41,7 @@
 <p align="left">
 <a href="https://t.me/skupydoom" target="blank"> <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="skupydoom" /></a>
 </p>
-<h2 align="center">My Codewars statistic:</h2>
+<h2 align="center">My Codewars statistics:</h2>
 <p align="center">
   <a target="_blank" href="https://www.codewars.com/users/Skupydoom">
     <img src="https://github.r2v.ch/codewars?user=Skupydoom&name=true&top_languages=true&stroke=%23b362ff&theme=gradient" />
