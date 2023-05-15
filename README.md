@@ -3,7 +3,7 @@
 <h3 align="center">Computer science student who likes to learn artificial intelligence,
 <br />machine learning and analytics technologies from Russia 🇷🇺</h3>
 <h2>About me:</h2>
-<p>- 🌱 I’m currently learning <b>QA, python, web</b>
+<p>- 🌱 I’m currently learning <b>ML, neural networks, computer vision, NLP, python, backend</b>
 <br />- 🌍 I speak Russian (native), English (B2)
 </p>
 <div align="center">
