@@ -3,7 +3,7 @@
 <h3 align="center">Computer science student who likes to learn artificial intelligence, mechine learning and analytics techniligies from Russia 🇷🇺</h3>
 <h2 align="center">My Codewars statistic:</h2>
 <p align="center">
-  <a target="_blank" href="https://www.codewars.com/users/MichaelRand0">
+  <a target="_blank" href="https://www.codewars.com/users/Skupydoom">
     <img src="https://github.r2v.ch/codewars?user=MichaelRand0&name=true&top_languages=true&stroke=%23b362ff&theme=gradient" />
   </a>
 </p>
