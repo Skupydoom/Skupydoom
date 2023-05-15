@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Konstantin </a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student who likes to learn artificial intelligence, mechine learning and analytics techniligies from Russia 🇷🇺</h3>
+<h2 align="center">My Codewars statistic:</h2>
+<p align="center">
+  <a target="_blank" href="https://www.codewars.com/users/MichaelRand0">
+    <img src="https://github.r2v.ch/codewars?user=MichaelRand0&name=true&top_languages=true&stroke=%23b362ff&theme=gradient" />
+  </a>
+</p>
 
 <!--
 **Skupydoom/Skupydoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
