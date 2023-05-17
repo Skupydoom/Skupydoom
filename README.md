@@ -6,6 +6,9 @@
 <p>- 🌱 I’m currently learning <b>ML, neural networks, computer vision, NLP, python, backend</b>
 <br />- 🌍 I speak Russian (native), English (B2)
 </p>
+<p align="center">
+  <a href="https://www.kaggle.com/skupydoom"> <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="kaggle"> </a>
+</p>
 <div align="center">
   <h2> Languages:</h2>
 </div>
