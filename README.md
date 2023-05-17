@@ -1,13 +1,12 @@
 <h1 align="center">Hi there, I'm Konstantin </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student who likes to learn artificial intelligence,
-<br />machine learning and analytics technologies from Russia 🇷🇺</h3>
+<br />machine learning and analytics technologies from Russia 🇷🇺
+<a href="https://www.kaggle.com/skupydoom"> <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="kaggle"> </a>
+</h3>
 <h2>About me:</h2>
 <p>- 🌱 I’m currently learning <b>ML, neural networks, computer vision, NLP, python, backend</b>
 <br />- 🌍 I speak Russian (native), English (B2)
-</p>
-<p align="center">
-  <a href="https://www.kaggle.com/skupydoom"> <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="kaggle"> </a>
 </p>
 <div align="center">
   <h2> Languages:</h2>
