@@ -5,7 +5,7 @@
 <br /> <a href="https://www.kaggle.com/skupydoom"> <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="kaggle"> </a>
 </h3>
 <h2>About me:</h2>
-<p>- 🌱 I’m currently learning <b>ML, neural networks, computer vision, NLP, python, backend</b>
+<p>- 🌱 I’m currently learning <b>Linux system administration, ML, neural networks, computer vision, NLP, python, C</b>
 <br />- 🌍 I speak Russian (native), English (B2)
 </p>
 <div align="center">
@@ -14,6 +14,7 @@
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" /> </a>
   <a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" /> </a>
+  <a href="https://www.iso.org/standard/74528.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" /> </a>
 </p"> 
 <div align="center">
   <h2>Technologies:</h2>
