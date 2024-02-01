@@ -59,7 +59,7 @@
     </td>
     <td>
         <a target="_blank" href="https://www.codewars.com/users/Skupydoom">
-          <img src="https://github.r2v.ch/codewars?user=Skupydoom&name=true&top_languages=true&stroke=%23b362ff&theme=gradient" />
+          <img alt="Codewars Stat Card" src="https://github.r2v.ch/codewars?user=Skupydoom&name=true&top_languages=true&stroke=%23b362ff&theme=gradient" />
         </a>
     </td>
   </tr>
