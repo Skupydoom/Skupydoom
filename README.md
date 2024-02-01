@@ -44,12 +44,26 @@
 <p align="left">
 <a href="https://t.me/skupydoom" target="blank"> <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="skupydoom" /></a>
 </p>
-<h2 align="center">My Codewars statistics:</h2>
-<p align="center">
-  <a target="_blank" href="https://www.codewars.com/users/Skupydoom">
-    <img src="https://github.r2v.ch/codewars?user=Skupydoom&name=true&top_languages=true&stroke=%23b362ff&theme=gradient" />
-  </a>
-</p>
+
+
+<table>
+  <tr>
+    <th> <h2 align="center">My LeetCode statistics:</h2> </th>
+    <th> <h2 align="center">My Codewars statistics:</h2> </th>
+  </tr>
+  <tr>
+    <td>
+        <a target="_blank" href="https://leetcode.com/Skupydoom/">
+          <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/?username=Skupydoom&theme=dark" width="540px" />
+        </a>
+    </td>
+    <td>
+        <a target="_blank" href="https://www.codewars.com/users/Skupydoom">
+          <img src="https://github.r2v.ch/codewars?user=Skupydoom&name=true&top_languages=true&stroke=%23b362ff&theme=gradient" />
+        </a>
+    </td>
+  </tr>
+</table>
 
 <!--
 **Skupydoom/Skupydoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
